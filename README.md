@@ -1,6 +1,6 @@
 # rascal_tutorialAMJG
 
-Este proyecto fue realizado siguiendo **exactamente** el tutorial oficial de Rascal, sin modificaciones al código propuesto.
+Este proyecto fue realizado siguiendo **exactamente** el tutorial de Rascal, sin modificaciones al código propuesto.
 
 ## Errores y advertencias
 
